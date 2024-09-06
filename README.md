@@ -162,3 +162,5 @@ Then, add the deployed link to your GitHub About section of the Giphy Search app
 
 ![](./images/deployed-github.png)
 
+Deployment Link: https://eight-0-2-assignment-qvvy.onrender.com
+
